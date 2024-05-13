@@ -1,0 +1,22 @@
+{
+  "name": "907sidra-guessing-game",
+  "version": "2.1.1",
+  "description": "it is a cli based number guessing game",
+  "main": "index.js",
+  "type": "module",
+  "publishconfig": {
+    "access": "public"
+  },
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
